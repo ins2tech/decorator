@@ -1,0 +1,6 @@
+coverage
+.vscode
+node_modules
+dist
+*.tgz
+.VSCodeCounter

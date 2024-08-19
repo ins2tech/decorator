@@ -1,0 +1,30 @@
+{
+  "name": "@skylar/decorator",
+  "version": "1.0.3",
+  "description": "有用的装饰器函数",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "report": "jest --coverage && cat ./coverage/lcov.info",
+    "test": "jest",
+    "check": "NODE_ENV=development ts-node test/index.ts"
+  },
+  "devDependencies": {
+    "@jest/globals": "^29.3.1",
+    "@types/jest": "^29.2.4",
+    "@types/node": "^22.3.0",
+    "coveralls": "^3.1.1",
+    "jest": "^29.3.1",
+    "jest-html-reporters": "^3.0.11",
+    "ts-jest": "^29.0.3"
+  },
+  "keywords": [
+    "decorator",
+    "tool"
+  ],
+  "author": "neohua",
+  "license": "ISC",
+  "transform": {
+    "^.+\\.ts?$": "ts-jest"
+  }
+}
