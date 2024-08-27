@@ -1,6 +1,6 @@
 {
   "name": "@skylar/decorator",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "有用的装饰器函数",
   "main": "dist/index.js",
   "scripts": {

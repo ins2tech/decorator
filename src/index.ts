@@ -1,4 +1,6 @@
 export { default as createLog } from './log'
 export { default as createTime } from './time'
 export { default as catchError } from './catchError'
+export { default as debounce } from './debounce'
+export { default as loading } from './loading'
 export * from './vuex-module'
