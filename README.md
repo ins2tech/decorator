@@ -4,8 +4,8 @@
 A lightweight collection of JavaScript/TypeScript decorators to help developers reduce repetitive code and improve development efficiency.
 
 ## Languages
-- [English](https://www.npmjs.com/package/@instech/decorator#readme)
-- [中文](https://www.npmjs.com/package/@instech/decorator#readme-zh-cn)
+- [English](https://github.com/ins2tech/decorator/blob/main/README.md)
+- [中文](https://github.com/ins2tech/decorator/blob/main/README.zh-CN.md)
 
 ## Features
 

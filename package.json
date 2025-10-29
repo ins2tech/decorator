@@ -7,6 +7,7 @@
     "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
+  "homepage": "https://github.com/ins2tech/decorator",
   "scripts": {
     "build": "tsc",
     "report": "jest --coverage && cat ./coverage/lcov.info",

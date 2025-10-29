@@ -3,6 +3,10 @@
 
 一个轻量级的 JavaScript/TypeScript 装饰器集合，帮助开发者减少重复代码，提升开发效率。
 
+## 语言
+- [English](https://github.com/ins2tech/decorator/blob/main/README.md)
+- [中文](https://github.com/ins2tech/decorator/blob/main/README.zh-CN.md)
+
 ## 特性
 
 - 提供多种实用装饰器，如错误捕获、日志记录、性能统计、加载状态管理、防抖等
