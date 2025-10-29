@@ -1,8 +1,12 @@
 {
-  "name": "@skylar/decorator",
-  "version": "1.0.5",
+  "name": "@instech/decorator",
+  "version": "1.0.6",
   "description": "有用的装饰器函数",
   "main": "dist/index.js",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "scripts": {
     "build": "tsc",
     "report": "jest --coverage && cat ./coverage/lcov.info",

@@ -2,7 +2,7 @@ export default function ModuleGetter(module: any, namespace: string, prop: strin
     return function (target: any, propertyKey: string) {
         Object.defineProperty(target, propertyKey, {
             get() {
-                console.log(module)
+                // console.log(module)
                 const getters = module.store.getters
                 return getters[`${namespace}/${prop}`]
             },
