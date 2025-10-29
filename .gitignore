@@ -4,3 +4,4 @@ node_modules
 dist
 *.tgz
 .VSCodeCounter
+README.dev.md
